@@ -1,0 +1,3 @@
+•	This design focuses on developing a real- time face mask discovery system. The system utilizes a pre-trained MobileNetV2 model for face discovery and a custom- trained mask sensor model.
+•	The thing is to descry whether individualities in a videotape sluice are wearing face masks or not. This face mask discovery system can be used in colorful settings, similar as public spaces, services, or seminaries, to ensure compliance with face mask programs.
+•	The real- time nature of the system enables quick identification of individualities not wearing masks, allowing for prompt action to maintain public health and safety.
